@@ -17,5 +17,5 @@
 ### How to make text Bold in a Markdown cell in Python
 **bold text**
 
-### Italic How to make text Italic in a Markdown cell in Python
+### How to make text Italic in a Markdown cell in Python
 *italicized text*
