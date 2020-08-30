@@ -35,3 +35,11 @@
  - import pandas as pd # for data analysis and manipulation
  - import numpy as np  # for calucation 
  - import matplotlib.pyplot as plt # for visualisation
+ 
+ ## Points drawn from "Python for Data Analysis" by Wes McKinny Second Edition Chapter 2
+ Attached ipynb file with detailed code and explaination which covered the below things:
+ 1. Function and object method calls , Variables and argument passing
+ 2. Use of Binary operators and comparisons using operators
+ 3. Understanding about the Mutable and immutable objects
+ 4. Using list, Strings and other datatypes and Typecasting them.
+ 5.   Methods using Control Flows - if-elif-else , for loop, while loop, range, and ternary statement 
