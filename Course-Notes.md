@@ -30,6 +30,7 @@
   - **SciPy** -  Scientific computing, optimization and statistics.
   - **Scikit-learn** - machine learning and data mining
 3. Import Conventions - Python adopts a number of naming conventions for commonly used modules mention in examples : pd for pandas, np for numpy and plt for matplotlib.pyplot.
+
   *Examples*
  - import pandas as pd # for data analysis and manipulation
  - import numpy as np  # for calucation 
