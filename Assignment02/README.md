@@ -1,2 +1,2 @@
 
-### This includes the 690 - stats and visualisation assignment - 02
+### This includes the 690 - Python stats and visualisation - Assignment - 02
