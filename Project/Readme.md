@@ -34,8 +34,8 @@ I have been interested in working with such data which would help us to understa
 *What questions do you try to answer?*
 
 - I would visualize and analysis the no. of new confirmed COVID cases.
-Secondly, would also do analysis about the no. of cases and deaths due to COVID.
-And, would do analysis related to the majority number of cases based on countries.
+- Secondly, would also do analysis about the no. of cases and deaths due to COVID.
+- And, would do analysis related to the majority number of cases based on countries.
 
 **VISUALISATION AND ANALYSIS**
 
