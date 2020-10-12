@@ -25,13 +25,17 @@ I have been interested in working with such data which would help us to understa
 
 **DATA SOURCE**
 
-*Where do you get the data?*
+*Where do you get the data to help answer your questions?*
 
 - I have taken the data source from  https://covid19.who.int/table.
 
 **HYPOTHESIS & QUESTIONS**
 
-*What questions do you try to answer?*
+*What will be your unit of analysis (for example, patient, organization, or country)? Roughly how many units do you expect to analyze?*
+ 
+- My units of anaylsis is the confirmed cases of COVID and Death cases and also country. I would analysis the whole dataset with help of bar chart using 66272 rows related to units mentioned above.
+
+*What questions do you have in mind and wouyld like to answer?*
 
 - I would visualize and analysis the no. of new confirmed COVID cases.
 - Secondly, would also do analysis about the no. of cases and deaths due to COVID.
